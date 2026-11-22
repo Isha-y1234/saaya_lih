@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213137653970",
+    "project_id": "saaya-1d484",
+    "storage_bucket": "saaya-1d484.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213137653970:android:609880677dd7e29c7bed0b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDj_QxlTfc5L0ZinMx1A16lX_6NnlY4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213137653970:android:e2aa4b8a07e988197bed0b",
+        "android_client_info": {
+          "package_name": "com.project.saaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDj_QxlTfc5L0ZinMx1A16lX_6NnlY4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "saaya-analysis",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "observability": { "enabled": false },
+  "vars": { "FREE_PLAN_CONFIRMED": "false", "WHISPER_WAV_VERIFIED": "false", "ALLOW_AUDIO_VERIFICATION": "false" }
+}

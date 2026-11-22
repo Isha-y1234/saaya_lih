@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="evidence-view" path="evidence-view/" />
+    <cache-path name="activity-capture" path="activity-capture/" />
+    <cache-path name="incident-report-pdfs" path="report-pdfs/" />
+</paths>
